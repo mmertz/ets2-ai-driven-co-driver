@@ -26,7 +26,7 @@ The plugin will automatically connect to the game's telemetry data and begin ana
 - Navigation updates
 - Job status changes
 
-Press the configured hotkey (default: F4) to toggle the co-driver's speech recognition for natural conversations.
+Press the configured hotkey (default: ALT) to toggle the co-driver's speech recognition for natural conversations.
 
 ## Customization
 
