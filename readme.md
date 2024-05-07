@@ -6,6 +6,9 @@ Using coordinates-to-city from https://github.com/mike-koch/ets2-mobile-route-ad
 
 This plugin adds an AI-powered virtual co-driver to Euro Truck Simulator 2 to enhance gameplay with context-aware dialogue, commentary, and assistance.
 
+
+## WIP, not tested with actual SDK telemetry.
+
 ## Setup
 
 1. Install ```./install.sh```
